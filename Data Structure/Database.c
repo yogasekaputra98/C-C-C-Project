@@ -1,0 +1,54 @@
+void databaseBarang(Queue *Database){
+    addDatabaseBarang(&*Database,"12345678","Pensil",8800);
+    addDatabaseBarang(&*Database,"87654321","Pulpen",6200);
+    addDatabaseBarang(&*Database,"36347354","Penghapus",5000);
+    addDatabaseBarang(&*Database,"00213782","Buku Tulis",12500);
+    addDatabaseBarang(&*Database,"21567301","Penggaris 30cm",5000);
+    addDatabaseBarang(&*Database,"19191919","Gabus",4000);
+    addDatabaseBarang(&*Database,"98989898","Kertas Polio",500);
+    addDatabaseBarang(&*Database,"78787576","Spidol",10000);
+    addDatabaseBarang(&*Database,"21212324","Type-X",6000);
+    addDatabaseBarang(&*Database,"34353132","double Tape",9000);
+    addDatabaseBarang(&*Database,"45434144","Karton Warna",5500);
+    addDatabaseBarang(&*Database,"51525354","Hekter",8500);
+    addDatabaseBarang(&*Database,"61626364","Buku Gambar",7500);
+    addDatabaseBarang(&*Database,"73747576","Pensil Warna",18000);
+    addDatabaseBarang(&*Database,"84858687","Drawing Pen",15000);
+    addDatabaseBarang(&*Database,"44653278","Isi Pensil Joyko",5000);
+    addDatabaseBarang(&*Database,"55467389","Tinta Printer",60000);
+    addDatabaseBarang(&*Database,"66578943","Kertas Foto",4500);
+    addDatabaseBarang(&*Database,"76851092","Sticky Note",7000);
+    addDatabaseBarang(&*Database,"89752030","Pita Warna",25000);
+    addDatabaseBarang(&*Database,"90102457","Bingkai Foto",35000);
+    addDatabaseBarang(&*Database,"98704320","Paku Payung",2000);
+    addDatabaseBarang(&*Database,"00748192","Binder",44000);
+    addDatabaseBarang(&*Database,"21567301","Kaos Kaki", 12000);
+}
+void databaseMember(Queue *Member){
+    addDatabaseMember(&*Member,"A0001");
+    addDatabaseMember(&*Member,"A0002");
+    addDatabaseMember(&*Member,"A0003");
+    addDatabaseMember(&*Member,"A0004");
+    addDatabaseMember(&*Member,"A0005");
+    addDatabaseMember(&*Member,"A0006");
+    addDatabaseMember(&*Member,"A0007");
+    addDatabaseMember(&*Member,"A0008");
+    addDatabaseMember(&*Member,"A0009");
+    addDatabaseMember(&*Member,"A0010");
+    addDatabaseMember(&*Member,"A0011");
+    addDatabaseMember(&*Member,"A0012");
+    addDatabaseMember(&*Member,"A0013");
+    addDatabaseMember(&*Member,"A0014");
+    addDatabaseMember(&*Member,"A0015");
+    addDatabaseMember(&*Member,"A0016");
+    addDatabaseMember(&*Member,"A0017");
+    addDatabaseMember(&*Member,"A0018");
+    addDatabaseMember(&*Member,"A0019");
+    addDatabaseMember(&*Member,"A0020");
+    addDatabaseMember(&*Member,"A0021");
+    addDatabaseMember(&*Member,"A0022");
+    addDatabaseMember(&*Member,"A0023");
+    addDatabaseMember(&*Member,"A0024");
+    addDatabaseMember(&*Member,"A0025");
+    addDatabaseMember(&*Member,"A0026");
+}
