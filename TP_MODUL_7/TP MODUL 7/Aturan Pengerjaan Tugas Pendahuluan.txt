@@ -1,0 +1,26 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Lengkapi prosedur-prosedur pada source code dalam file ini agar saat di run dapat menampilkan isi 4 array yang terurut dengan 4 teknik sorting.
+
+2. Isi dari prosedur main tidak boleh diubah kecuali ada perubahan dari asprak.
+
+3. Baca comment dalam setiap prosedur dengan baik untuk mengerti kegunaan dan memudahkan pengisian dari setiap prosedur.
+
+4. Saat program di run, tampilkan pernyataan berikut:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+5. Kirim file ke tinyurl.com/TP-DAPIK dalam bentuk 1 file .rar berisi:
+	- file source code soal TP yang rampung
+	- Print screen hasil run program
+   dan beri nama file nya NIM_NAMA. Contoh 1302151059_BintangMeidoreK.
+
+6. Kumpulkan sebelum tanggal 3 April 2017 Pukul 10.00 WIFLAB. 
+
+PLAGIARISME = Nilai Mata Praktikum E !!!!!!

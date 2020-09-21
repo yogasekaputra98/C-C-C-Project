@@ -1,0 +1,17 @@
+int i,j,k,d;
+    int min=0,max=N;
+    int tabcount[100];
+    for(i=0;i<max;i++)
+        tabcount[i] = 0;
+    for( i = 0; i < N ; i++)
+        tabcount[a[i]]= tabcount[a[i]]+1;
+    k=0;
+    for(i = min; i < max; i++){
+        if(tabcount[i] != 0 ){
+            for(j=1;j<=tabcount[i];j++){
+                a[k] = i;
+                k++;
+            }
+        }
+    }
+}

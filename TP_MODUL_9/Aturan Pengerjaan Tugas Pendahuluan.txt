@@ -1,0 +1,23 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Pastikan anda membaca perintah soal dengan teliti, kemudian jawab dengan tepat.
+
+2. Pengerjaan cukup mengisi body fungsi dan prosedur yang tersedia.
+
+3. Sertakan SS program, apabila belum berhasil, SS bagian error.
+
+4. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+5. Kirim file jawaban ke tinyurl.com/TP-DAPIK dalam bentuk 1 file word yang berisi jawaban hasil tugas pendahuluan dan beri nama file nya NIM_NAMA. Contoh: 1302151059_BintangMeidoreK.
+
+6. Kumpulkan sebelum tanggal 16 April 2017 Pukul 07.00 WIFLAB. 
+
+PLAGIARISME = Nilai Mata Praktikum E !!!!!!
